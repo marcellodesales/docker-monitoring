@@ -2,6 +2,12 @@
 
 This is the first 2016 setup that works with the current latest versions of Google cAdvisor (v0.20.5), InfluxDB 0.9, Grafana working (latest) together. This was part of the work done to verify the PR https://github.com/google/cadvisor/pull/1040#issuecomment-176078952.
 
+Other resources include:
+
+* https://github.com/Kentik/docker-monitor
+* http://rancher.com/comparing-monitoring-options-for-docker-deployments/
+* https://www.brianchristner.io/how-to-setup-docker-monitoring/
+
 # Setup
 
 Just use docker-compose to bring all up in a single machine for smoke test.
